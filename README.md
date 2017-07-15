@@ -1,6 +1,8 @@
 # Citiscope
 
 Do you want to find a person or agent for a specific service but don’t want to juggle with gazillion websites online to find out whose products or services is the best? And you also want to keep track of all the agents you have contacted or planned to contact? And lastly, you yourself want to provide services, and are looking for a common platform to get easy access to the clients? Citiscope is an app that strives to meet these requirements.
+
+![citiscope](https://user-images.githubusercontent.com/19862001/28238960-a4f5780a-6981-11e7-9c3e-5a4ca66ef64f.jpg)
  
  
 **So what does it do exactly?** 
