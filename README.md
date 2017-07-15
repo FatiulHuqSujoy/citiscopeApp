@@ -21,6 +21,7 @@ Do you want to find a person or agent for a specific service but don’t want to
 
 *Seven*, and lastly, there’s this poll. So what’s a poll doing here? We figured that there are so many services out there that we alone cannot cover them all. So we need our users to help us find them. A registered user can add a nomination in the poll and specify what it does and where to get its agents from online. A registered user can also vote for a nomination. An admin observes the poll and after a certain time will remove it from the poll if it does not get enough votes or if it gets a lot, in which case the nomination will be turned into a service in a later version. The nominator will get a notification in such cases. The poll is also a platform for startups to showcase their services.
 
+---
 
 Through this app we hope to provide users with an easy and efficient access to all the useful and frequently needed services right in the palm of their hands. And as a bonus, with the poll and agent registration service, we hope to see young and small businesses get recognized and flourish.
 
